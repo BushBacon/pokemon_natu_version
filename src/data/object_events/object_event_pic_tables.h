@@ -90,7 +90,7 @@ static const struct SpriteFrameImage sPicTable_RichBoy[] = {
 };
 
 static const struct SpriteFrameImage sPicTable_Woman1[] = {
-    overworld_ascending_frames(gObjectEventPic_Woman1, 2, 4),
+    overworld_ascending_frames(gObjectEventPic_Woman1, 4, 4),
 };
 
 static const struct SpriteFrameImage sPicTable_FatMan[] = {
