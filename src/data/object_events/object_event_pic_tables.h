@@ -1050,15 +1050,15 @@ static const struct SpriteFrameImage sPicTable_RayquazaStill[] = {
 };
 
 static const struct SpriteFrameImage sPicTable_Zigzagoon[] = {
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 0),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 1),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 2),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 0),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 0),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 1),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 1),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 2),
-    overworld_frame(gObjectEventPic_Zigzagoon, 2, 2, 2),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 0),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 1),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 2),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 0),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 0),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 1),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 1),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 2),
+    overworld_frame(gObjectEventPic_Zigzagoon, 4, 4, 2),
 };
 
 static const struct SpriteFrameImage sPicTable_Pikachu[] = {
